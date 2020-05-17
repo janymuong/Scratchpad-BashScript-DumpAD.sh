@@ -1,0 +1,1 @@
+# Scratchpad-BashScript-DumpAD.sh
